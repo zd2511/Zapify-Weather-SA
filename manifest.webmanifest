@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Zapify Weather | South African Weather",
+  "short_name": "Zapify Weather",
+  "description": "Live South African weather, wind gusts, hourly and 7-day forecasts, and practical activity conditions.",
+  "lang": "en-ZA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#104b83",
+  "theme_color": "#0b426c",
+  "categories": ["weather", "utilities", "lifestyle"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
